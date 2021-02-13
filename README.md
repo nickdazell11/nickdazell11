@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nickdazell11
+- 👀 I’m interested in AI/ML and Data Science
+- 🌱 I’m currently learning functional programming and algorithms
+- 💞️ I’m looking to collaborate on App Development projects
+- 📫 Feel free to email me with any questions or project ideas at ndazell@g.hmc.edu
